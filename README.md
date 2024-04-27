@@ -6,7 +6,7 @@ Initially, you start with 7 lives. A word is presented to you in the form of das
 
 ### Files: funcs_for_game.py, game.py, main.py and words.json.
 * __funcs_for_game.py__ -> here are functions that are used in further for making the main hangman function
-* __game__.py -> here is the hangman function, where is built hangman function with functions from previous file
+* __game__.py -> here is the hangman function, where is built hangman game with functions from previous file
 * __main__.py -> here is inserted the main hangman function and this is the main file, where you need to play
 
 \
